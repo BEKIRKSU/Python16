@@ -5,6 +5,7 @@ print(another_module.another_variable)
 # import turtle
 # Instead write
 from turtle import Turtle, Screen
+# Read the documentation 'turtle graphics documentation' to see all the methods, attributes etc.
 
 # turtleOne = turtle.Turtle()
 # We've used a class Turtle from turtle.
