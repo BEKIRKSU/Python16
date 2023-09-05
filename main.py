@@ -11,6 +11,8 @@ from turtle import Turtle, Screen
 # Instead write
 turtleOne = Turtle()
 print(turtleOne)
+turtleOne.shape("turtle")
+
 my_screen = Screen()
 print(my_screen.canvheight)
 # The same as JS^, you're selecting a specific attribute from the object.
