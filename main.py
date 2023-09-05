@@ -12,4 +12,6 @@ from turtle import Turtle, Screen
 turtleOne = Turtle()
 my_screen = Screen()
 print(my_screen.canvheight)
-# The same as JS^, you're selecting a specific object from the main thing.
+# The same as JS^, you're selecting a specific attribute from the object.
+
+# We can call a function that an object has. e.g. car.stop()
