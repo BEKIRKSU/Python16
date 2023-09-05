@@ -14,6 +14,7 @@ turtleOne = Turtle()
 print(turtleOne)
 turtleOne.shape("turtle")
 turtleOne.color("green")
+# the methods will have a 'M' next to it on the dropdown menu when you're typing
 
 my_screen = Screen()
 print(my_screen.canvheight)
