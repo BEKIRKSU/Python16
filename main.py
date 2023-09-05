@@ -10,6 +10,7 @@ from turtle import Turtle, Screen
 # We've used a class Turtle from turtle.
 # Instead write
 turtleOne = Turtle()
+print(turtleone)
 my_screen = Screen()
 print(my_screen.canvheight)
 # The same as JS^, you're selecting a specific attribute from the object.
