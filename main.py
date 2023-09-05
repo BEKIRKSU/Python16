@@ -15,3 +15,4 @@ print(my_screen.canvheight)
 # The same as JS^, you're selecting a specific attribute from the object.
 
 # We can call a function that an object has. e.g. car.stop()
+my_screen.exitonclick()
