@@ -23,3 +23,6 @@ print(my_screen.canvheight)
 
 # We can call a function that an object has. e.g. car.stop()
 my_screen.exitonclick()
+
+# New object was created. Attributes where accessed using object name.attribute. And we've utilized
+# methods.
