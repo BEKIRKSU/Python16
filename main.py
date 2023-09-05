@@ -13,6 +13,7 @@ from turtle import Turtle, Screen
 turtleOne = Turtle()
 print(turtleOne)
 turtleOne.shape("turtle")
+turtleOne.color("green")
 
 my_screen = Screen()
 print(my_screen.canvheight)
