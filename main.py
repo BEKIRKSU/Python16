@@ -27,4 +27,6 @@ my_screen.exitonclick()
 # New object was created. Attributes where accessed using object name.attribute. And we've utilized
 # methods.
 
-import prettytable
+from prettytable import PrettyTable
+
+table = PrettyTable()
