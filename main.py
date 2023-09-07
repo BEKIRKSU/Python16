@@ -15,7 +15,7 @@ print(turtleOne)
 turtleOne.shape("turtle")
 turtleOne.color("green")
 # the methods will have a 'M' next to it on the dropdown menu when you're typing
-turtleOne.forward(2)
+turtleOne.forward(10)
 
 my_screen = Screen()
 print(my_screen.canvheight)
